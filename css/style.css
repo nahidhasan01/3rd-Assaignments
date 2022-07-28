@@ -16,6 +16,16 @@ body{
 .card-margin{
     margin-top: 50px;
 }
+.e-learn{
+    margin-top: 150px;
+}
+.join-part{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.btn-margin{
+    margin-top: 30px;
+}
 @media screen and (max-width:576px) {
     .dark-lay{
         height: 500px;
