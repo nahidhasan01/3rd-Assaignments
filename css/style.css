@@ -26,9 +26,15 @@ body{
 .btn-margin{
     margin-top: 30px;
 }
+.acc-margin{
+    margin-bottom: 150px;
+}
 @media screen and (max-width:576px) {
     .dark-lay{
         height: 500px;
         object-fit: cover;
-    }    
+    }   
+    .acc-size{
+        width: 100% !important;
+    } 
 }
