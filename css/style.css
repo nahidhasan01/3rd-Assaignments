@@ -46,7 +46,9 @@ body{
         height: 500px;
         object-fit: cover;
     }   
+}
+@media screen and (max-width:768px) {
     .acc-size{
         width: 100% !important;
-    } 
+    }
 }
